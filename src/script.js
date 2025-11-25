@@ -1,0 +1,1 @@
+document.body.style.backgroundImage = `url(https://images.unsplash.com/photo-1550292554-7e53d78fd7a5?ixid=M3wxNDI0NzB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQwODkxNjR8&ixlib=rb-4.1.0)`

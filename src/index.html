@@ -24,8 +24,20 @@
     <main>
         <time class="clock" id="clock">--:--</time>
     </main>
+
+    <footer>
+        <div class="quote" id="quote"></div>
+    </footer>
         
     <!-- JavaScript -->
+    <script type="importmap"> 
+        {
+            "imports": {
+                "dynamicbackground": "./modules/dynamicbackground.js",
+                "zenquotes": "./modules/zenquotes.js"
+            }
+        }
+    </script>
     <script src="script.js" type="module" defer></script>
 </body>
 </html>
